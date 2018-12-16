@@ -1,0 +1,10 @@
+C:\Users\RuslanIh\Documents\16.12.2018\cbar\cbar\bin\Debug\cbar.exe.config
+C:\Users\RuslanIh\Documents\16.12.2018\cbar\cbar\bin\Debug\cbar.exe
+C:\Users\RuslanIh\Documents\16.12.2018\cbar\cbar\bin\Debug\cbar.pdb
+C:\Users\RuslanIh\Documents\16.12.2018\cbar\cbar\obj\Debug\cbar.csprojResolveAssemblyReference.cache
+C:\Users\RuslanIh\Documents\16.12.2018\cbar\cbar\obj\Debug\cbar.Form1.resources
+C:\Users\RuslanIh\Documents\16.12.2018\cbar\cbar\obj\Debug\cbar.Properties.Resources.resources
+C:\Users\RuslanIh\Documents\16.12.2018\cbar\cbar\obj\Debug\cbar.csproj.GenerateResource.Cache
+C:\Users\RuslanIh\Documents\16.12.2018\cbar\cbar\obj\Debug\cbar.csproj.CoreCompileInputs.cache
+C:\Users\RuslanIh\Documents\16.12.2018\cbar\cbar\obj\Debug\cbar.exe
+C:\Users\RuslanIh\Documents\16.12.2018\cbar\cbar\obj\Debug\cbar.pdb
